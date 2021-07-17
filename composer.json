@@ -1,0 +1,33 @@
+{
+    "name": "jonexyz/wang-editor-v4",
+    "description": "description...",
+    "type": "library",
+    "keywords": ["laravel-admin", "extension"],
+    "homepage": "https://github.com/jonexyz/wang-editor-v4",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jone",
+            "email": "abc@jone.xyz"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "encore/laravel-admin": "~1.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jonexyz\\wangEditorV4\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jonexyz\\wangEditorV4\\wangEditorV4ServiceProvider"
+            ]
+        }
+    }
+}
