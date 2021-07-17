@@ -1,6 +1,6 @@
 {
     "name": "jonexyz/wang-editor-v4",
-    "description": "description...",
+    "description": "laravel admin editor",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
     "homepage": "https://github.com/jonexyz/wang-editor-v4",
