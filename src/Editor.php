@@ -42,6 +42,8 @@ class Editor extends Field
     var editor = new E('#{$this->id}');
 
     editor.config.uploadImgParams = {_token: '$token'}
+    
+    editor.config.uploadVideoParams = {_token: '$token'}
 
     Object.assign(editor.config, {$config})
 
