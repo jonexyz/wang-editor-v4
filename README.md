@@ -1,4 +1,12 @@
 laravel-admin 插件 wangEditor V4 版本富文本编辑器
+
+======
+laravel-admin extension
+
+wangEditor 5 富文本编辑器插件  beta 版
+
+https://github.com/jonexyz/wang-editor-v5
+
 ======
 
 首先声明，此插件是参照 https://github.com/laravel-admin-extensions/wangEditor 进行修改而来
