@@ -1,11 +1,12 @@
 laravel-admin 插件 wangEditor V4 版本富文本编辑器
 
 ======
-laravel-admin extension
 
-wangEditor 5 富文本编辑器插件  beta 版
+##### 2022-07-30 更新
 
-https://github.com/jonexyz/wang-editor-v5
+##### laravel-admin extension  wangEditor 5 富文本编辑器插件  beta 版
+
+#### https://github.com/jonexyz/wang-editor-v5
 
 ======
 
